@@ -1,2 +1,3 @@
 # grad_admissions_pred
-implementation of paper: A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019. Mohan S Acharya, Asfia Armaan, Aneeta S Antony.
+implementation of paper: 
+AlGhamdi, Amal & Barsheed, Amal & AlMshjary, Hanadi & Alghamdi, Hanan. (2020). A Machine Learning Approach for Graduate Admission Prediction. 155-158. 10.1145/3388818.3393716. 
